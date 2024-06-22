@@ -1,9 +1,9 @@
 <div align="center">
   
-  [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)](#)
+  [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header)](#)
 
   안녕하세요 👋<br>
-  저는 백엔드를 공부하고 있는 이정용입니다!
+  백엔드를 공부하고 있는 이정용입니다!
   <br><br>
 
   ### 🛠️ 기술 스택
