@@ -32,6 +32,7 @@
   ### 🚀 프로젝트
   | 기 간 | 인 원 | 프로젝트명 | 링 크 |
   |:----:|:----:|:-------:|:--:|
-  | 2024.03.25 ~ 2024.06.07 (약 11주) | 총 7명 | IOTEATIME, 지능형 IoT 기술을 이용한 스마트 전력 관리 시스템 | [<img src="https://img.shields.io/badge/바로가기-3776AB?style=flat-square&logo=&logoColor=white">](https://github.com/nhnacademy-aiot1-5) |
+  | 2024.08.09 ~ 2024.08.16 | 총 1명 | 기술 과제 - 결제 및 페이백 API 구현 | [<img src="https://img.shields.io/badge/바로가기-3776AB?style=flat-square&logo=&logoColor=white">](https://github.com/jeongyongs/firfin) |
+  | 2024.03.25 ~ 2024.06.07 | 총 7명 | IOTEATIME, 지능형 IoT 기술을 이용한 스마트 전력 관리 시스템 | [<img src="https://img.shields.io/badge/바로가기-3776AB?style=flat-square&logo=&logoColor=white">](https://github.com/nhnacademy-aiot1-5) |
 
 </div>
