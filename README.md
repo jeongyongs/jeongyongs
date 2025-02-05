@@ -3,30 +3,22 @@
   [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header)](#)
 
   안녕하세요 👋<br>
-  백엔드를 공부하고 있는 이정용입니다!
+  소프트웨어 엔지니어, 이정용입니다!
   
   [![velog](https://img.shields.io/badge/Blog-velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@jeongyong)
   [![RabbitMQ](https://img.shields.io/badge/Mail-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hua9378@gmail.com)
   <br><br>
 
   ### 🛠️ 기술 스택
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)](#)
-  [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](#)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](#)
-  [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)](#)
-  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](#)
-  [![Docker](https://img.shields.io/badge/Docker-2267E9?style=flat-square&logo=Docker&logoColor=white)](#)
-  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](#)
+  [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)](#)
+  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](#)
+  [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](#)
+  [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](#)
   <br>
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](#)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
-  <br>
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](#)
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)](#)
-  [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](#)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](#)
+  [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)](#)
+  [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)](#)
+  [![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#)
   <br>
   
   ### 🚀 프로젝트
